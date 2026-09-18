@@ -60,6 +60,10 @@
       "name": "ethxn's omnisette server :3",
       "address": "https://omni.ethxn.xyz"
     }
+    {
+      "name": "GdGeodeNoxizm's server"
+      "address"  "https://noxizm.geode.xyz"
+    }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
 }
